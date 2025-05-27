@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\vankhoi1\\ContactLis\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B85296B4-3F3D-42D2-B2F4-4E61148EFB96}|ContactList\\ContactList.csproj|c:\\users\\admin\\source\\repos\\vankhoi1\\contactlis\\contactlist\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B85296B4-3F3D-42D2-B2F4-4E61148EFB96}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{B85296B4-3F3D-42D2-B2F4-4E61148EFB96}|ContactList\\ContactList.csproj|c:\\users\\admin\\source\\repos\\vankhoi1\\contactlis\\contactlist\\mainfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B85296B4-3F3D-42D2-B2F4-4E61148EFB96}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\mainfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85296B4-3F3D-42D2-B2F4-4E61148EFB96}|ContactList\\ContactList.csproj|c:\\users\\admin\\source\\repos\\vankhoi1\\contactlis\\contactlist\\mainfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85296B4-3F3D-42D2-B2F4-4E61148EFB96}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\mainfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,12 +30,25 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mainfrom.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\vankhoi1\\ContactLis\\ContactList\\Mainfrom.cs",
+              "RelativeDocumentMoniker": "ContactList\\Mainfrom.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\vankhoi1\\ContactLis\\ContactList\\Mainfrom.cs",
+              "RelativeToolTip": "ContactList\\Mainfrom.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAnwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T01:27:48.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\vankhoi1\\ContactLis\\ContactList\\Form1.cs",
-              "RelativeDocumentMoniker": "ContactList\\Form1.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\vankhoi1\\ContactLis\\ContactList\\Form1.cs [Design]",
-              "RelativeToolTip": "ContactList\\Form1.cs [Design]",
+              "Title": "Mainfrom.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\vankhoi1\\ContactLis\\ContactList\\Mainfrom.cs",
+              "RelativeDocumentMoniker": "ContactList\\Mainfrom.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\vankhoi1\\ContactLis\\ContactList\\Mainfrom.cs [Design]",
+              "RelativeToolTip": "ContactList\\Mainfrom.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T01:24:47.569Z",
               "EditorCaption": " [Design]"
