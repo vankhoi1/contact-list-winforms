@@ -35,7 +35,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(261, 93);
+            this.label1.Location = new System.Drawing.Point(558, 164);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(113, 16);
             this.label1.TabIndex = 0;
@@ -49,6 +49,7 @@
             this.button1.TabIndex = 1;
             this.button1.Text = "Thêm liên hệ";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // Form1
             // 
