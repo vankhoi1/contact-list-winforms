@@ -1,13 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\vankhoi1\\ContactLis\\",
+  "WorkspaceRootPath": "C:\\Users\\sangn\\contact-list-winforms\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B85296B4-3F3D-42D2-B2F4-4E61148EFB96}|ContactList\\ContactList.csproj|c:\\users\\admin\\source\\repos\\vankhoi1\\contactlis\\contactlist\\mainfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4AC59E22-A930-4DD6-85A0-0912ACF40573}|AddContactForm.cs\\AddContactForm.cs.csproj|c:\\users\\sangn\\contact-list-winforms\\addcontactform.cs\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4AC59E22-A930-4DD6-85A0-0912ACF40573}|AddContactForm.cs\\AddContactForm.cs.csproj|solutionrelative:addcontactform.cs\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85296B4-3F3D-42D2-B2F4-4E61148EFB96}|ContactList\\ContactList.csproj|c:\\users\\sangn\\contact-list-winforms\\contactlist\\mainfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B85296B4-3F3D-42D2-B2F4-4E61148EFB96}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\mainfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B85296B4-3F3D-42D2-B2F4-4E61148EFB96}|ContactList\\ContactList.csproj|c:\\users\\admin\\source\\repos\\vankhoi1\\contactlis\\contactlist\\mainfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B85296B4-3F3D-42D2-B2F4-4E61148EFB96}|ContactList\\ContactList.csproj|C:\\Users\\sangn\\contact-list-winforms\\contactlist\\mainfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B85296B4-3F3D-42D2-B2F4-4E61148EFB96}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\mainfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,23 +22,27 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddContactForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sangn\\contact-list-winforms\\AddContactForm.cs\\AddContactForm.cs",
+              "RelativeDocumentMoniker": "AddContactForm.cs\\AddContactForm.cs",
+              "ToolTip": "C:\\Users\\sangn\\contact-list-winforms\\AddContactForm.cs\\AddContactForm.cs [Design]",
+              "RelativeToolTip": "AddContactForm.cs\\AddContactForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T01:52:38.32Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Mainfrom.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\vankhoi1\\ContactLis\\ContactList\\Mainfrom.cs",
+              "DocumentMoniker": "C:\\Users\\sangn\\contact-list-winforms\\ContactList\\Mainfrom.cs",
               "RelativeDocumentMoniker": "ContactList\\Mainfrom.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\vankhoi1\\ContactLis\\ContactList\\Mainfrom.cs",
+              "ToolTip": "C:\\Users\\sangn\\contact-list-winforms\\ContactList\\Mainfrom.cs",
               "RelativeToolTip": "ContactList\\Mainfrom.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAnwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -43,11 +51,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Mainfrom.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\vankhoi1\\ContactLis\\ContactList\\Mainfrom.cs",
+              "DocumentMoniker": "C:\\Users\\sangn\\contact-list-winforms\\ContactList\\Mainfrom.cs",
               "RelativeDocumentMoniker": "ContactList\\Mainfrom.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\vankhoi1\\ContactLis\\ContactList\\Mainfrom.cs [Design]",
+              "ToolTip": "C:\\Users\\sangn\\contact-list-winforms\\ContactList\\Mainfrom.cs [Design]",
               "RelativeToolTip": "ContactList\\Mainfrom.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T01:24:47.569Z",
